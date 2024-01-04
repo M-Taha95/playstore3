@@ -178,4 +178,6 @@ EMAIL_HOST = "localhost"
 EMAIL_HOST_USER = ""
 EMAIL_HOST_PASSWORD = ""
 EMAIL_PORT = 2525
-DEFAULT_FROM_EMAIL = "msoudi2013@gmail.com"
+DEFAULT_FROM_EMAIL = "john@example.com"
+
+ADMINS = [("John", "john@example.com")]
