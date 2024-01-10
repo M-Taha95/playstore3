@@ -105,7 +105,7 @@ DATABASES = {
         "NAME": "playstore3",
         "HOST": "localhost",
         "USER": "root",
-        "PASSWORD": "2101995Taha",
+        "PASSWORD": "YourPassword",
     }
 }
 
